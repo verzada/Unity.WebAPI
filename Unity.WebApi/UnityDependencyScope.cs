@@ -1,10 +1,10 @@
-﻿using Microsoft.Practices.Unity;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Web.Http.Controllers;
 using System.Web.Http.Dependencies;
+using Unity;
 
-namespace Unity.WebApi
+namespace FhirStarter.Unity.Webapi
 {
     public class UnityDependencyScope : IDependencyScope
     {

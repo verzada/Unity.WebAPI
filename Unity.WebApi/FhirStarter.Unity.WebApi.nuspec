@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FhirStarter.Unity.WebAPI</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>verzada, snoopie72</authors>
+    <owners>$author$</owners>
+    <description>$description$</description>
+    <copyright>$copyright$</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/verzada/FhirStarter.STU3</projectUrl>
+    <language>english</language>
+    <summary>Fork of https://github.com/devtrends/Unity.WebAPI to support FhirStarter project </summary>
+    <releaseNotes>Updated to version 5.1.2 of Unity </releaseNotes>
+    <tags>fhirstarter unity webapit</tags>
+  </metadata>
+</package>

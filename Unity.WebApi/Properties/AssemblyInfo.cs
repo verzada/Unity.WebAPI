@@ -1,11 +1,11 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Unity.WebApi")]
+[assembly: AssemblyTitle("FhirStarter.Unity.Webapi")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("DevTrends")]
-[assembly: AssemblyProduct("Unity.WebApi")]
+[assembly: AssemblyCompany("Helse Nord IKT")]
+[assembly: AssemblyProduct("FhirStarter.Unity.Webapi")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]

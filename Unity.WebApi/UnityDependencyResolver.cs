@@ -1,6 +1,5 @@
 ﻿using System.Web.Http.Dependencies;
 using Unity;
-using Unity.WebApi;
 
 namespace FhirStarter.Unity.Webapi
 {

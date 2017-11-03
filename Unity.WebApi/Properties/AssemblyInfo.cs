@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("FhirStarter.Unity.Webapi")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Unity.WebApi package for FhirStarter")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Helse Nord IKT")]
 [assembly: AssemblyProduct("FhirStarter.Unity.Webapi")]
